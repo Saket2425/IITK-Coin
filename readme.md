@@ -126,7 +126,7 @@ Authorization: Bearer <jwt_token>
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iitk-coin/iitk-coin.git
+   git clone https://github.com/Saket2425/IITK-Coin.git
    cd iitk-coin
    ```
 
