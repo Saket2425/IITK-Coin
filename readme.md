@@ -206,21 +206,3 @@ type Transaction struct {
 }
 ```
 
-## Error Handling
-
-- Make sure to check for errors during authentication and database operations.
-- If you encounter an error like "could not create database", ensure the database is set up correctly and connection details are correct.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-branch-name`.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
